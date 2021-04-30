@@ -1,6 +1,6 @@
 # worldmap_app
-
-A new Flutter application.
+ 
+ The app shows the time of the selected country, use of http api to fetch the time of different country, besides that the background changes according to the daytime.
 
 ## Getting Started
 
